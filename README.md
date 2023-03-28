@@ -6,4 +6,4 @@ The single-page app is deployed on Heroku and can be accessed here: https://obsc
 To streamline the deployment of the frontend, I have npm scripts to build static files that the backend can serve. The frontend code can be found in this repository: https://github.com/jdrco/phonebook-client
 
 # References
-This is an exercise I found on Full Stack Open which has been a very useful resource for learning the MERN stack: https://fullstackopen.com/en/part3
+This is an exercise project I found on Full Stack Open which has been a very useful resource for learning the MERN stack: https://fullstackopen.com/en/part3
